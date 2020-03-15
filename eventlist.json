@@ -81,11 +81,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
@@ -104,11 +99,6 @@
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "refugeechased",
-		"price": 650,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "animaltame",
@@ -321,11 +311,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "berescued",
-		"price": 900,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -334,12 +319,7 @@
 		"abr": "torytalkervote",
 		"price": 750,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 64
 }
