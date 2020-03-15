@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "adrenalineribreplacement",
-		"price": 1332,
+		"price": 1333,
 		"category": "Bionic",
 		"defname": "AdrenalineRib"
 	},
@@ -213,13 +213,13 @@
 	{
 		"abr": "autocannonturret",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Autocannon"
 	},
 	{
 		"abr": "autodoor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Autodoor"
 	},
 	{
@@ -261,7 +261,7 @@
 	{
 		"abr": "barbedwire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WDBarbedWire"
 	},
 	{
@@ -495,7 +495,7 @@
 	{
 		"abr": "campfire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Campfire"
 	},
 	{
@@ -555,7 +555,7 @@
 	{
 		"abr": "chemfuelpoweredgenerator",
 		"price": 492,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
@@ -645,7 +645,7 @@
 	{
 		"abr": "commsconsole",
 		"price": 608,
-		"category": "",
+		"category": "Misc",
 		"defname": "CommsConsole"
 	},
 	{
@@ -657,7 +657,7 @@
 	{
 		"abr": "cooler",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler"
 	},
 	{
@@ -687,7 +687,7 @@
 	{
 		"abr": "cryptosleepcasket",
 		"price": 1183,
-		"category": "",
+		"category": "Misc",
 		"defname": "CryptosleepCasket"
 	},
 	{
@@ -759,7 +759,7 @@
 	{
 		"abr": "door",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Door"
 	},
 	{
@@ -825,7 +825,7 @@
 	{
 		"abr": "electriccrematorium",
 		"price": 700,
-		"category": "",
+		"category": "Misc",
 		"defname": "ElectricCrematorium"
 	},
 	{
@@ -879,7 +879,7 @@
 	{
 		"abr": "embrasure",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ED_Embrasure"
 	},
 	{
@@ -1053,7 +1053,7 @@
 	{
 		"abr": "geothermalgenerator",
 		"price": 1575,
-		"category": "",
+		"category": "Misc",
 		"defname": "GeothermalGenerator"
 	},
 	{
@@ -1107,7 +1107,7 @@
 	{
 		"abr": "grave",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Grave"
 	},
 	{
@@ -1137,7 +1137,7 @@
 	{
 		"abr": "ground-penetratingscanner",
 		"price": 1692,
-		"category": "",
+		"category": "Misc",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
@@ -1227,7 +1227,7 @@
 	{
 		"abr": "hopper",
 		"price": 49,
-		"category": "",
+		"category": "Misc",
 		"defname": "Hopper"
 	},
 	{
@@ -1281,7 +1281,7 @@
 	{
 		"abr": "hydroponicsbasin",
 		"price": 383,
-		"category": "",
+		"category": "Misc",
 		"defname": "HydroponicsBasin"
 	},
 	{
@@ -1479,7 +1479,7 @@
 	{
 		"abr": "long-rangemineralscanner",
 		"price": 1625,
-		"category": "",
+		"category": "Misc",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
@@ -1599,7 +1599,7 @@
 	{
 		"abr": "miniquarry",
 		"price": 260,
-		"category": "",
+		"category": "Misc",
 		"defname": "QRY_MiniQuarry"
 	},
 	{
@@ -1617,7 +1617,7 @@
 	{
 		"abr": "moisturepump",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "MoisturePump"
 	},
 	{
@@ -1677,7 +1677,7 @@
 	{
 		"abr": "nutrientpastedispenser",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
@@ -1761,7 +1761,7 @@
 	{
 		"abr": "passivecooler",
 		"price": 101,
-		"category": "",
+		"category": "Misc",
 		"defname": "PassiveCooler"
 	},
 	{
@@ -1839,7 +1839,7 @@
 	{
 		"abr": "podlauncher",
 		"price": 230,
-		"category": "",
+		"category": "Misc",
 		"defname": "PodLauncher"
 	},
 	{
@@ -1875,13 +1875,13 @@
 	{
 		"abr": "powerconduit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerConduit"
 	},
 	{
 		"abr": "powerswitch",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerSwitch"
 	},
 	{
@@ -1959,13 +1959,13 @@
 	{
 		"abr": "quarry",
 		"price": 617,
-		"category": "",
+		"category": "Misc",
 		"defname": "QRY_Quarry"
 	},
 	{
 		"abr": "quarryplatform",
 		"price": 168,
-		"category": "",
+		"category": "Misc",
 		"defname": "QRY_Platform"
 	},
 	{
@@ -2079,7 +2079,7 @@
 	{
 		"abr": "sarcophagus",
 		"price": 214,
-		"category": "",
+		"category": "Misc",
 		"defname": "Sarcophagus"
 	},
 	{
@@ -2109,7 +2109,7 @@
 	{
 		"abr": "sensorcluster",
 		"price": 3008,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_SensorCluster"
 	},
 	{
@@ -2127,25 +2127,25 @@
 	{
 		"abr": "shipcomputercore",
 		"price": 9742,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "shipcryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "shipengine",
 		"price": 5925,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "shipreactor",
 		"price": 9067,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Reactor"
 	},
 	{
@@ -2325,7 +2325,7 @@
 	{
 		"abr": "solargenerator",
 		"price": 492,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarGenerator"
 	},
 	{
@@ -2541,7 +2541,7 @@
 	{
 		"abr": "torchlamp",
 		"price": 41,
-		"category": "",
+		"category": "Misc",
 		"defname": "TorchLamp"
 	},
 	{
@@ -2565,7 +2565,7 @@
 	{
 		"abr": "transportpod",
 		"price": 253,
-		"category": "",
+		"category": "Misc",
 		"defname": "TransportPod"
 	},
 	{
@@ -2625,7 +2625,7 @@
 	{
 		"abr": "uraniumslugturret",
 		"price": 2408,
-		"category": "",
+		"category": "Misc",
 		"defname": "Turret_Sniper"
 	},
 	{
@@ -2637,7 +2637,7 @@
 	{
 		"abr": "vent",
 		"price": 97,
-		"category": "",
+		"category": "Misc",
 		"defname": "Vent"
 	},
 	{
@@ -2655,7 +2655,7 @@
 	{
 		"abr": "wall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall"
 	},
 	{
@@ -2739,13 +2739,13 @@
 	{
 		"abr": "watermillgenerator",
 		"price": 1000,
-		"category": "",
+		"category": "Misc",
 		"defname": "WatermillGenerator"
 	},
 	{
 		"abr": "waterproofconduit",
 		"price": 10,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterproofConduit"
 	},
 	{
@@ -2757,7 +2757,7 @@
 	{
 		"abr": "windturbine",
 		"price": 442,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindTurbine"
 	},
 	{
@@ -2781,7 +2781,7 @@
 	{
 		"abr": "wood-firedgenerator",
 		"price": 442,
-		"category": "",
+		"category": "Misc",
 		"defname": "WoodFiredGenerator"
 	},
 	{
@@ -5451,499 +5451,499 @@
 	{
 		"abr": "air-conpipe",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "airPipe"
 	},
 	{
 		"abr": "ancientconcretebarrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientConcreteBarrier"
 	},
 	{
 		"abr": "ancientcryptosleepcasket",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientCryptosleepCasket"
 	},
 	{
 		"abr": "ancientjohnson-tanakadrive",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "JTDriveSalvage"
 	},
 	{
 		"abr": "ancientlamppost",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "AncientLamppost"
 	},
 	{
 		"abr": "artificialecosystem",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Ecosystem"
 	},
 	{
 		"abr": "ballista",
 		"price": 675,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_Ballista"
 	},
 	{
 		"abr": "barbedwire",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_BarbedWire"
 	},
 	{
 		"abr": "barricade",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Barricade"
 	},
 	{
 		"abr": "barrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Barrier"
 	},
 	{
 		"abr": "bioreactor",
 		"price": 617,
-		"category": "",
+		"category": "Misc",
 		"defname": "BioReactor"
 	},
 	{
 		"abr": "bioreactor(3x3)",
 		"price": 1125,
-		"category": "",
+		"category": "Misc",
 		"defname": "BioReactorCircleLarge"
 	},
 	{
 		"abr": "bioreactor(3x3)",
 		"price": 1125,
-		"category": "",
+		"category": "Misc",
 		"defname": "BioReactorBig"
 	},
 	{
 		"abr": "bioreactor(4x4)",
 		"price": 1642,
-		"category": "",
+		"category": "Misc",
 		"defname": "BioReactorCircleEX"
 	},
 	{
 		"abr": "bioreactor(4x4)",
 		"price": 1642,
-		"category": "",
+		"category": "Misc",
 		"defname": "BioReactorEx"
 	},
 	{
 		"abr": "biosolidfertilizer",
 		"price": 1,
-		"category": "",
+		"category": "Misc",
 		"defname": "BiosolidFertilizer"
 	},
 	{
 		"abr": "bluesterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileBlue"
 	},
 	{
 		"abr": "brownsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileBrown"
 	},
 	{
 		"abr": "burnpit",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "BurnPit"
 	},
 	{
 		"abr": "catapult",
 		"price": 1208,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_Catapult"
 	},
 	{
 		"abr": "cavalryspikes",
 		"price": 12,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_CavalrySpikes"
 	},
 	{
 		"abr": "chargecomplex",
 		"price": 1692,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_ChargeComplex"
 	},
 	{
 		"abr": "chargerailgun",
 		"price": 4325,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_ChargeRailgunTurret"
 	},
 	{
 		"abr": "chemfuelpoweredgeneratorlv2",
 		"price": 758,
-		"category": "",
+		"category": "Misc",
 		"defname": "ChemfuelPoweredGenerator_II"
 	},
 	{
 		"abr": "column",
 		"price": 71,
-		"category": "",
+		"category": "Misc",
 		"defname": "Column"
 	},
 	{
 		"abr": "creamsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileCream"
 	},
 	{
 		"abr": "crittersleepcaskets(32)",
 		"price": 4275,
-		"category": "",
+		"category": "Misc",
 		"defname": "CrittersleepCasketLarge"
 	},
 	{
 		"abr": "crittersleepcaskets(8)",
 		"price": 1242,
-		"category": "",
+		"category": "Misc",
 		"defname": "CrittersleepCasket"
 	},
 	{
 		"abr": "cryptonest",
 		"price": 558,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cryptonest"
 	},
 	{
 		"abr": "darksterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileDark"
 	},
 	{
 		"abr": "deepwaterwell",
 		"price": 492,
-		"category": "",
+		"category": "Misc",
 		"defname": "DeepWaterWellInlet"
 	},
 	{
 		"abr": "deployablebarrier",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_DeployableBarrier"
 	},
 	{
 		"abr": "doubleautocannon",
 		"price": 3475,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_AutocannonDouble"
 	},
 	{
 		"abr": "empcannon",
 		"price": 4558,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_EMPTurret"
 	},
 	{
 		"abr": "geothermalgeneratorlv2",
 		"price": 3350,
-		"category": "",
+		"category": "Misc",
 		"defname": "GeothermalGenerator_II"
 	},
 	{
 		"abr": "goldsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileGold"
 	},
 	{
 		"abr": "grandstele",
 		"price": 933,
-		"category": "",
+		"category": "Misc",
 		"defname": "SteleGrand"
 	},
 	{
 		"abr": "greensterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileGreen"
 	},
 	{
 		"abr": "hardpoint",
 		"price": 567,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHardpoint"
 	},
 	{
 		"abr": "hmgcomplex",
 		"price": 750,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_HMGComplex"
 	},
 	{
 		"abr": "hugewatertower",
 		"price": 717,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterTowerL"
 	},
 	{
 		"abr": "hullplating",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHullTile"
 	},
 	{
 		"abr": "hullwreckage",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHullTileWrecked"
 	},
 	{
 		"abr": "johnson-tanakadrive",
 		"price": 12208,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_Engine_Interplanetary"
 	},
 	{
 		"abr": "largehardpoint",
 		"price": 2275,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipHardpointLarge"
 	},
 	{
 		"abr": "largeshieldgenerator",
 		"price": 7458,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_ShieldGenerator_Large"
 	},
 	{
 		"abr": "largestele",
 		"price": 467,
-		"category": "",
+		"category": "Misc",
 		"defname": "SteleLarge"
 	},
 	{
 		"abr": "planterbox",
 		"price": 112,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_PlanterBox"
 	},
 	{
 		"abr": "plumbing",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "sewagePipeStuff"
 	},
 	{
 		"abr": "primitivewell",
 		"price": 137,
-		"category": "",
+		"category": "Misc",
 		"defname": "PrimitiveWell"
 	},
 	{
 		"abr": "pumpingstation",
 		"price": 567,
-		"category": "",
+		"category": "Misc",
 		"defname": "PumpingStation"
 	},
 	{
 		"abr": "redsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileRed"
 	},
 	{
 		"abr": "reinforceddoor",
 		"price": 625,
-		"category": "",
+		"category": "Misc",
 		"defname": "ReinforcedDoor"
 	},
 	{
 		"abr": "researchcounter",
 		"price": 86,
-		"category": "",
+		"category": "Misc",
 		"defname": "Facility_ResearchCounter"
 	},
 	{
 		"abr": "rocketturret",
 		"price": 3058,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Turret_TriRocket"
 	},
 	{
 		"abr": "septictank",
 		"price": 658,
-		"category": "",
+		"category": "Misc",
 		"defname": "SewageSepticTank"
 	},
 	{
 		"abr": "sewageoutlet",
 		"price": 176,
-		"category": "",
+		"category": "Misc",
 		"defname": "SewageOutlet"
 	},
 	{
 		"abr": "sewagetreatment",
 		"price": 1725,
-		"category": "",
+		"category": "Misc",
 		"defname": "SewageTreatment"
 	},
 	{
 		"abr": "shortwall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_ShortWall"
 	},
 	{
 		"abr": "shuttlebay",
 		"price": 3575,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShipShuttleBay"
 	},
 	{
 		"abr": "smoothedgranite",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SmoothedGranite"
 	},
 	{
 		"abr": "smoothedlimestone",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SmoothedLimestone"
 	},
 	{
 		"abr": "smoothedmarble",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SmoothedMarble"
 	},
 	{
 		"abr": "smoothedsandstone",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SmoothedSandstone"
 	},
 	{
 		"abr": "smoothedslate",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "SmoothedSlate"
 	},
 	{
 		"abr": "solargeneratorlv2",
 		"price": 1300,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarGenerator_II"
 	},
 	{
 		"abr": "solarheater",
 		"price": 244,
-		"category": "",
+		"category": "Misc",
 		"defname": "SolarHeater"
 	},
 	{
 		"abr": "stalldoor",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "ToiletStallDoor"
 	},
 	{
 		"abr": "stonecampfire",
 		"price": 128,
-		"category": "",
+		"category": "Misc",
 		"defname": "Stone_Campfire"
 	},
 	{
 		"abr": "swimmingpool",
 		"price": 1617,
-		"category": "",
+		"category": "Misc",
 		"defname": "DBHSwimmingPool"
 	},
 	{
 		"abr": "tealsterilewall",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "Wall_SterileTeal"
 	},
 	{
 		"abr": "tilableartificialecosystem",
 		"price": 492,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Ecosystem_Tilable"
 	},
 	{
 		"abr": "tilablehydroponicsbasin",
 		"price": 137,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Hydroponics_Tilable"
 	},
 	{
 		"abr": "tilableplanterbox",
 		"price": 15,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_PlanterBox_Tilable"
 	},
 	{
 		"abr": "trench",
 		"price": 40,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFES_Trench"
 	},
 	{
 		"abr": "undergroundpowerconduit",
 		"price": 6,
-		"category": "",
+		"category": "Misc",
 		"defname": "PowerConduitInvisible"
 	},
 	{
 		"abr": "wallpaper",
 		"price": -10,
-		"category": "",
+		"category": "Misc",
 		"defname": "VFE_Wallpaper"
 	},
 	{
 		"abr": "watertower",
 		"price": 258,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterTowerS"
 	},
 	{
 		"abr": "watertreatment",
 		"price": 1075,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterTreatment"
 	},
 	{
 		"abr": "waterwell",
 		"price": 248,
-		"category": "",
+		"category": "Misc",
 		"defname": "WaterWellInlet"
 	},
 	{
 		"abr": "watermillgeneratorlv2",
 		"price": 1992,
-		"category": "",
+		"category": "Misc",
 		"defname": "WatermillGenerator_II"
 	},
 	{
 		"abr": "windpump",
 		"price": 358,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindPump"
 	},
 	{
 		"abr": "windturbinelv2",
 		"price": 992,
-		"category": "",
+		"category": "Misc",
 		"defname": "WindTurbine_II"
 	},
 	{
@@ -6135,67 +6135,67 @@
 	{
 		"abr": "bulletshield",
 		"price": 1667,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldGeneratorBullets"
 	},
 	{
 		"abr": "count-downactivator",
 		"price": 105,
-		"category": "",
+		"category": "Misc",
 		"defname": "ActivatorCountdown"
 	},
 	{
 		"abr": "lifesupportsystem",
 		"price": 5458,
-		"category": "",
+		"category": "Misc",
 		"defname": "Ship_LifeSupport"
 	},
 	{
 		"abr": "mechassembler",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "MechAssembler"
 	},
 	{
 		"abr": "mechcapsule",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "MechCapsule"
 	},
 	{
 		"abr": "mechdropbeacon",
 		"price": 105,
-		"category": "",
+		"category": "Misc",
 		"defname": "MechDropBeacon"
 	},
 	{
 		"abr": "mortarshield",
 		"price": 1667,
-		"category": "",
+		"category": "Misc",
 		"defname": "ShieldGeneratorMortar"
 	},
 	{
 		"abr": "over-wallcooler",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler_Over"
 	},
 	{
 		"abr": "over-wallcooler(wide)",
 		"price": 458,
-		"category": "",
+		"category": "Misc",
 		"defname": "Cooler_Over2W"
 	},
 	{
 		"abr": "over-wallvent",
 		"price": 97,
-		"category": "",
+		"category": "Misc",
 		"defname": "Vent_Over"
 	},
 	{
 		"abr": "proximityactivator",
 		"price": 105,
-		"category": "",
+		"category": "Misc",
 		"defname": "ActivatorProximity"
 	},
 	{
@@ -6432,6 +6432,12 @@
 		"category": "Furniture",
 		"defname": "Light_SpacerLamp"
 	},
+	{
+		"abr": "reinforcedwall",
+		"price": 52,
+		"category": "Misc",
+		"defname": "Reinforced_WallAT"
+	}
 	],
-	"total": 1792
+	"total": 1793
 }
