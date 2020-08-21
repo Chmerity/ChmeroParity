@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -127,7 +127,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -231,11 +231,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "siegeraid",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -247,7 +242,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -277,7 +272,7 @@
 	},
 	{
 		"abr": "pawn",
-		"price": 1500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -287,17 +282,17 @@
 	},
 	{
 		"abr": "trait",
-		"price": 3500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 5500,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -319,7 +314,47 @@
 		"abr": "torytalkervote",
 		"price": 750,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "surgery",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 71
 }
